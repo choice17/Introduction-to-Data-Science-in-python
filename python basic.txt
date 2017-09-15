@@ -1,0 +1,29 @@
+python1.
+
+for i in range(1,10):
+for j in range(10,1,-1)	
+
+if A and B:
+if A or B:
+
+index start at 0
+
+sorting 
+
+len()
+
+char to ascii value
+ord()
+deci to bin
+bin()
+
+string.rjust(i,"0") create "0xi"
+a = "4s" + "56s" = "4s56s"
+
+list[i].split(".")[-1]
+string.lower()
+string.upper
+list[i].find(".") -> true return position, else return -1
+
+extlist = [filename.split(".")[-1] for filename in fname if filename.find(".")!=-1]
+
